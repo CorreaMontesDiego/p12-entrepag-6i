@@ -19,8 +19,9 @@ samples, guidance on mobile development, and a full API reference.
 //flutlab.io/docs
 //https://docs.google.com/document/d/1jTloUy06IgWM7lw4rxjJRm-U0HS4YiTs9KUiXsZLa6U/edit
 
-- ![image](https://github.com/CorreaMontesDiego/p12-entrepag-6i/assets/143771010/c1fc5c20-b17f-4cf4-a072-b45c0433144b)
+-![image](https://github.com/CorreaMontesDiego/p12-entrepag-6i/assets/143771010/e483e90e-de0f-47ed-96c0-d09706966776)
+-![image](https://github.com/CorreaMontesDiego/p12-entrepag-6i/assets/143771010/3a1ff7b9-94af-466e-b3ff-843cabbef7b4)
 
-- ![image](https://github.com/CorreaMontesDiego/p12-entrepag-6i/assets/143771010/f7790e84-9b3b-436b-a2f2-628279f64e16)
+
 
 
